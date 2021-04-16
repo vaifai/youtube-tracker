@@ -1,0 +1,31 @@
+.header {
+    &__container{
+        margin-top: 31px;
+    }
+
+    &__title{
+        margin-left: 20px;
+        width: 55%;
+    }
+
+    &__icon-search{
+        margin-right: 2%;
+        cursor: pointer;
+    }
+
+    &__icon-bell {
+        cursor: pointer;
+    }
+
+    &__vertical-separator{
+        border-left: 2px solid greenyellow;
+        height: 24px;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    &__name {
+        margin-left: 3%;
+    }
+    
+}

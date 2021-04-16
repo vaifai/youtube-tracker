@@ -1,0 +1,25 @@
+.cards {
+    &__container {
+        margin-left: 20px;
+        margin-top: 54px;
+    }
+
+    &__individual {
+        width: 20%;
+        height: 127px;
+        background: #fff;
+        font-family: 'Muli';
+        margin-right: 5%;
+    }
+
+    &__card-heading{
+        margin-top: 24px;
+        color: #9fa2b4;
+    }
+
+    &__count {
+        margin-top: -12px;
+        font-size: 40px;
+        font-weight: 700;
+    }
+}

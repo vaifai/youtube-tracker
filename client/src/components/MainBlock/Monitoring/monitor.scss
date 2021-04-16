@@ -1,0 +1,15 @@
+.monitor {
+    &__container {
+        margin-left: 5px;
+        margin-top: 70px;
+        background: #fff;
+        width: 96%;
+        padding-bottom: 40px;
+        font-family: 'Muli';
+    }
+
+    &__heading {
+        padding-top: 30px;
+        font-size: 30px;
+    }
+}

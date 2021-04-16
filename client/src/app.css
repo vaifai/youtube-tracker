@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+.sidebar__title{
+    font-family: 'Muli';
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #A4A6B3;
+    opacity: 0.7;
+    margin-left: 18px;
+    margin-top: 0.3%;
+}
